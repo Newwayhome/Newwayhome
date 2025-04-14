@@ -1,5 +1,3 @@
-# Welcome to Newwayhome's GitHub
-
 ## 👨‍💻 Who Am I?
 
 Curious. Persistent. Code-driven.
