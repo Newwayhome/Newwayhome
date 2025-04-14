@@ -1,21 +1,23 @@
-## Hi there 👋
+# Welcome to Newwayhome's GitHub
 
-🔭 I’m currently pursuing a PG Degree, expanding my knowledge in software development and technology...
+## 👨‍💻 Who Am I?
 
-🌱 Actively learning Java and building projects...
+Curious. Persistent. Code-driven.
 
-🚀 Familiar with AWS cloud services and improving my cloud computing skills day by day...
-<!--
-**Newwayhome/Newwayhome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a self-motivated developer exploring the intersections of:
 
-Here are some ideas to get you started:
+- **Cloud Computing & DevOps**
+- **Cybersecurity, DRM & Reverse Engineering**
+- **AI/ML on Image, Text & Audio Data**
+- **Web, Mobile & Backend Development**
+- **Startup Ideation & Product Building**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech Toolbox
+
+```yaml
+Languages:    Python, Java, Bash, JavaScript
+Cloud & DevOps: AWS, GitHub Actions, CI/CD, Docker
+Frameworks:   TensorFlow, OpenCV, React
+Mobile:       Android Studio, Firebase
+Security:     DRM, Trusted Execution Environments, Reverse Engineering
+Utilities:    Web Scraping, Automation Scripts, CLI Tools
