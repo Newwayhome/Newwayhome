@@ -19,6 +19,7 @@ Frameworks:   TensorFlow, OpenCV, React
 Mobile:       Android Studio, Firebase
 Security:     DRM, Trusted Execution Environments, Reverse Engineering
 Utilities:    Web Scraping, Automation Scripts, CLI Tools
+```
 
 #
 
