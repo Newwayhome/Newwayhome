@@ -27,8 +27,6 @@ Utilities:    Web Scraping, Automation Scripts, CLI Tools
 
 #
 
-### DONATE 👇
 
-`USDT TRC20` : TDGVYNfbjsrCiU18cQKLUpzfBfEqJdoc1p
 
 #
